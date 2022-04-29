@@ -1,0 +1,9 @@
+package webapp;
+
+public class Resources {
+	public final static String NAME = "name";
+	public final static String PASSWORD = "password";
+	
+	public final static String VIEWS_WELCOME = "/WEB-INF/views/welcome.jsp";
+	public final static String VIEWS_LOGIN = "/WEB-INF/views/login.jsp";
+}

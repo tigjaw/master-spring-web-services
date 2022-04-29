@@ -1,0 +1,6 @@
+INDEX VERSION 1.131+J:\Tigjaw\Documents\Work\Java\GitHub\master-spring-web-services\.metadata\.plugins\org.eclipse.jdt.core
+1171770053.index
+760091825.index
+3590367585.index
+2852048205.index
+1865797976.index

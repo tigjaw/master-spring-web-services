@@ -1,0 +1,6 @@
+INDEX VERSION 1.4+J:\Tigjaw\Documents\Work\Java\GitHub\master-spring-web-services\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2298064593.index
+1943887200.index
+1171770053.index
+3725741612.index
+2000599213.index
