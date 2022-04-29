@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schema xmlns="http://www.w3.org/2001/XMLSchema"
+		targetNamespace="http://in28minutes.com/courses"
+		xmlns:tns="http://in28minutes.com/courses"
+		elementFormDefault="qualified">
+		
+		<element name="GetCourseDetailsRequest">
+			<complexType>
+				<sequence>
+					<element name="id" type="int"/>
+				</sequence>
+			</complexType>
+		</element>
+</schema>
