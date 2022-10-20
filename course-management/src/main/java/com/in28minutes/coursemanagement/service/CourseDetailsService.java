@@ -13,11 +13,15 @@ public class CourseDetailsService {
 	
 	private static List<Course> courses = new ArrayList<>();
 	
+	public enum Status {
+		SUCCESS, FAILURE;
+	}
+	
 	static {
-		Course course1 = new Course(1, "Spring", "10 Steps");
-		Course course2 = new Course(1, "Spring MVC", "10 Examples");
-		Course course3 = new Course(1, "Spring Boot", "6k Students");
-		Course course4 = new Course(1, "Maven", "Most popular maven course");
+		Course course1 = new Course(1, "C-ONE", "One Course to rule them all");
+		Course course2 = new Course(2, "C-TWO", "Two blind mice");
+		Course course3 = new Course(3, "C-THREE", "The Three amigos");
+		Course course4 = new Course(4, "C-FOUR", "The Fantastic Four");
 		courses.add(course1);
 		courses.add(course2);
 		courses.add(course3);
@@ -37,15 +41,15 @@ public class CourseDetailsService {
 		return courses;
 	}
 	
-	public int deleteById(int id) {
+	public Status deleteById(int id) {
 		Iterator<Course> it = courses.iterator();
 		while (it.hasNext()) {
 			Course course = it.next();
 			if (course.getId() == id) {
 				it.remove();
-				return 1;
+				return Status.SUCCESS;
 			}
 		}
-		return 0;
+		return Status.FAILURE;
 	}
 }

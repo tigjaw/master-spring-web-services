@@ -6080,3 +6080,539 @@ org.eclipse.core.runtime.CoreException: Variable references non-existent resourc
 2022-07-05 16:13:59,103 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2022-07-05 16:13:59,103 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
 2022-07-05 16:13:59,103 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory J:\Tigjaw\Documents\Work\Java\GitHub\master-spring-web-services\course-management\src\test\resources
+2022-07-06 15:41:31,254 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-07-06 15:41:33,087 [Worker-6: Decoration Calculation] WARN  org.eclipse.jgit.util.FS_Win32 - null
+2022-07-06 15:50:17,664 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - No changes detected in schema or binding files - skipping source generation.
+2022-07-06 15:50:17,863 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-06 15:50:17,863 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-06 15:50:17,866 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-06 15:50:17,885 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-06 15:50:17,889 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-06 15:50:17,889 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-06 15:50:17,890 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory J:\Tigjaw\Documents\Work\Java\GitHub\master-spring-web-services\course-management\src\test\resources
+2022-07-06 15:55:22,692 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Generating source...
+2022-07-06 15:55:22,735 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - parsing a schema...
+2022-07-06 15:55:23,051 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - compiling a schema...
+2022-07-06 15:55:23,108 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - com\in28minutes\coursemanagement\courses\CourseDetails.java
+2022-07-06 15:55:23,119 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - com\in28minutes\coursemanagement\courses\GetAllCourseDetailsResponse.java
+2022-07-06 15:55:23,121 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - com\in28minutes\coursemanagement\courses\GetCourseDetailsRequest.java
+2022-07-06 15:55:23,124 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - com\in28minutes\coursemanagement\courses\GetCourseDetailsResponse.java
+2022-07-06 15:55:23,126 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - com\in28minutes\coursemanagement\courses\ObjectFactory.java
+2022-07-06 15:55:23,129 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - com\in28minutes\coursemanagement\courses\package-info.java
+2022-07-06 15:55:23,134 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-06 15:55:23,134 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-06 15:55:23,137 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-06 15:55:23,138 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-06 15:55:23,146 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-06 15:55:23,147 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-06 15:55:23,147 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory J:\Tigjaw\Documents\Work\Java\GitHub\master-spring-web-services\course-management\src\test\resources
+2022-07-06 15:56:16,182 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - No changes detected in schema or binding files - skipping source generation.
+2022-07-06 15:56:16,184 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-06 15:56:16,184 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-06 15:56:16,188 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-06 15:56:16,195 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-06 15:56:16,198 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-06 15:56:16,198 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-06 15:56:16,198 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory J:\Tigjaw\Documents\Work\Java\GitHub\master-spring-web-services\course-management\src\test\resources
+2022-07-06 15:56:43,991 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Generating source...
+2022-07-06 15:56:44,001 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - parsing a schema...
+2022-07-06 15:56:44,042 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - compiling a schema...
+2022-07-06 15:56:44,043 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - com\in28minutes\coursemanagement\courses\CourseDetails.java
+2022-07-06 15:56:44,047 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - com\in28minutes\coursemanagement\courses\GetAllCourseDetailsRequest.java
+2022-07-06 15:56:44,048 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - com\in28minutes\coursemanagement\courses\GetAllCourseDetailsResponse.java
+2022-07-06 15:56:44,050 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - com\in28minutes\coursemanagement\courses\GetCourseDetailsRequest.java
+2022-07-06 15:56:44,052 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - com\in28minutes\coursemanagement\courses\GetCourseDetailsResponse.java
+2022-07-06 15:56:44,054 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - com\in28minutes\coursemanagement\courses\ObjectFactory.java
+2022-07-06 15:56:44,056 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - com\in28minutes\coursemanagement\courses\package-info.java
+2022-07-06 15:56:44,059 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-06 15:56:44,059 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-06 15:56:44,060 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-06 15:56:44,061 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-06 15:56:44,068 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-06 15:56:44,068 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-06 15:56:44,068 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory J:\Tigjaw\Documents\Work\Java\GitHub\master-spring-web-services\course-management\src\test\resources
+2022-07-06 15:57:48,970 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - No changes detected in schema or binding files - skipping source generation.
+2022-07-06 15:57:48,972 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-06 15:57:48,972 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-06 15:57:48,973 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-06 15:57:48,977 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-06 15:57:48,980 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-06 15:57:48,980 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-06 15:57:48,980 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory J:\Tigjaw\Documents\Work\Java\GitHub\master-spring-web-services\course-management\src\test\resources
+2022-07-06 15:58:51,720 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - No changes detected in schema or binding files - skipping source generation.
+2022-07-06 15:58:51,722 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-06 15:58:51,722 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-06 15:58:51,723 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-06 15:58:51,727 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-06 15:58:51,729 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-06 15:58:51,730 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-06 15:58:51,730 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory J:\Tigjaw\Documents\Work\Java\GitHub\master-spring-web-services\course-management\src\test\resources
+2022-07-06 16:01:41,092 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - No changes detected in schema or binding files - skipping source generation.
+2022-07-06 16:01:41,094 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-06 16:01:41,094 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-06 16:01:41,096 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-06 16:01:41,102 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-06 16:01:41,105 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-06 16:01:41,105 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-06 16:01:41,105 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory J:\Tigjaw\Documents\Work\Java\GitHub\master-spring-web-services\course-management\src\test\resources
+2022-07-06 16:02:36,668 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - No changes detected in schema or binding files - skipping source generation.
+2022-07-06 16:02:36,670 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-06 16:02:36,670 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-06 16:02:36,672 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-06 16:02:36,678 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-06 16:02:36,682 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-06 16:02:36,682 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-06 16:02:36,683 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory J:\Tigjaw\Documents\Work\Java\GitHub\master-spring-web-services\course-management\src\test\resources
+2022-07-06 16:03:26,010 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - No changes detected in schema or binding files - skipping source generation.
+2022-07-06 16:03:26,012 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-06 16:03:26,012 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-06 16:03:26,014 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-06 16:03:26,021 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-06 16:03:26,024 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-06 16:03:26,024 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-06 16:03:26,024 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory J:\Tigjaw\Documents\Work\Java\GitHub\master-spring-web-services\course-management\src\test\resources
+2022-07-06 16:03:33,537 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - No changes detected in schema or binding files - skipping source generation.
+2022-07-06 16:03:33,538 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-06 16:03:33,539 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-06 16:03:33,541 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-06 16:03:33,545 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-06 16:03:33,548 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-06 16:03:33,549 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-06 16:03:33,549 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory J:\Tigjaw\Documents\Work\Java\GitHub\master-spring-web-services\course-management\src\test\resources
+2022-07-06 16:04:18,527 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - No changes detected in schema or binding files - skipping source generation.
+2022-07-06 16:04:18,528 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-06 16:04:18,528 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-06 16:04:18,530 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-06 16:04:18,534 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-06 16:04:18,537 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-06 16:04:18,537 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-06 16:04:18,538 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory J:\Tigjaw\Documents\Work\Java\GitHub\master-spring-web-services\course-management\src\test\resources
+2022-07-06 16:04:27,941 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - No changes detected in schema or binding files - skipping source generation.
+2022-07-06 16:04:27,942 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-06 16:04:27,942 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-06 16:04:27,943 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-06 16:04:27,948 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-06 16:04:27,951 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-06 16:04:27,951 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-06 16:04:27,951 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory J:\Tigjaw\Documents\Work\Java\GitHub\master-spring-web-services\course-management\src\test\resources
+2022-07-06 16:06:17,639 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - No changes detected in schema or binding files - skipping source generation.
+2022-07-06 16:06:17,641 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-06 16:06:17,641 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-06 16:06:17,642 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-06 16:06:17,646 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-06 16:06:17,648 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-06 16:06:17,648 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-06 16:06:17,648 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory J:\Tigjaw\Documents\Work\Java\GitHub\master-spring-web-services\course-management\src\test\resources
+2022-07-06 16:06:24,569 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - No changes detected in schema or binding files - skipping source generation.
+2022-07-06 16:06:24,571 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-06 16:06:24,571 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-06 16:06:24,572 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-06 16:06:24,576 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-06 16:06:24,579 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-06 16:06:24,579 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-06 16:06:24,579 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory J:\Tigjaw\Documents\Work\Java\GitHub\master-spring-web-services\course-management\src\test\resources
+2022-07-06 16:06:27,096 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - No changes detected in schema or binding files - skipping source generation.
+2022-07-06 16:06:27,098 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-06 16:06:27,098 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-06 16:06:27,100 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-06 16:06:27,105 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-06 16:06:27,108 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-06 16:06:27,108 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-06 16:06:27,108 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory J:\Tigjaw\Documents\Work\Java\GitHub\master-spring-web-services\course-management\src\test\resources
+2022-07-06 16:06:32,244 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - No changes detected in schema or binding files - skipping source generation.
+2022-07-06 16:06:32,246 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-06 16:06:32,247 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-06 16:06:32,248 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-06 16:06:32,253 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-06 16:06:32,257 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-06 16:06:32,257 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-06 16:06:32,257 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory J:\Tigjaw\Documents\Work\Java\GitHub\master-spring-web-services\course-management\src\test\resources
+2022-07-06 16:06:35,533 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - No changes detected in schema or binding files - skipping source generation.
+2022-07-06 16:06:35,534 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-06 16:06:35,534 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-06 16:06:35,535 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-06 16:06:35,553 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-06 16:06:35,555 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-06 16:06:35,555 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-06 16:06:35,555 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory J:\Tigjaw\Documents\Work\Java\GitHub\master-spring-web-services\course-management\src\test\resources
+2022-07-06 16:06:44,027 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - No changes detected in schema or binding files - skipping source generation.
+2022-07-06 16:06:44,029 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-06 16:06:44,029 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-06 16:06:44,030 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-06 16:06:44,052 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-06 16:06:44,055 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-06 16:06:44,055 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-06 16:06:44,055 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory J:\Tigjaw\Documents\Work\Java\GitHub\master-spring-web-services\course-management\src\test\resources
+2022-07-06 16:19:34,821 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - No changes detected in schema or binding files - skipping source generation.
+2022-07-06 16:19:34,823 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-06 16:19:34,823 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-06 16:19:34,824 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-06 16:19:34,836 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-06 16:19:34,840 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-06 16:19:34,840 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-06 16:19:34,840 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory J:\Tigjaw\Documents\Work\Java\GitHub\master-spring-web-services\course-management\src\test\resources
+2022-07-06 16:19:53,173 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - No changes detected in schema or binding files - skipping source generation.
+2022-07-06 16:19:53,174 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-06 16:19:53,174 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-06 16:19:53,175 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-06 16:19:53,181 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-06 16:19:53,183 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-06 16:19:53,183 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-06 16:19:53,183 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory J:\Tigjaw\Documents\Work\Java\GitHub\master-spring-web-services\course-management\src\test\resources
+2022-07-06 16:20:21,534 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - No changes detected in schema or binding files - skipping source generation.
+2022-07-06 16:20:21,535 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-06 16:20:21,536 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-06 16:20:21,537 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-06 16:20:21,542 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-06 16:20:21,545 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-06 16:20:21,545 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-06 16:20:21,545 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory J:\Tigjaw\Documents\Work\Java\GitHub\master-spring-web-services\course-management\src\test\resources
+2022-07-06 16:20:25,695 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - No changes detected in schema or binding files - skipping source generation.
+2022-07-06 16:20:25,697 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-06 16:20:25,697 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-06 16:20:25,698 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-06 16:20:25,702 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-06 16:20:25,704 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-06 16:20:25,704 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-06 16:20:25,705 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory J:\Tigjaw\Documents\Work\Java\GitHub\master-spring-web-services\course-management\src\test\resources
+2022-07-06 16:21:03,380 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - No changes detected in schema or binding files - skipping source generation.
+2022-07-06 16:21:03,382 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-06 16:21:03,382 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-06 16:21:03,384 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-06 16:21:03,389 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-06 16:21:03,392 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-06 16:21:03,392 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-06 16:21:03,392 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory J:\Tigjaw\Documents\Work\Java\GitHub\master-spring-web-services\course-management\src\test\resources
+2022-07-06 16:21:12,011 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - No changes detected in schema or binding files - skipping source generation.
+2022-07-06 16:21:12,021 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-06 16:21:12,022 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-06 16:21:12,023 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-06 16:21:12,030 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-06 16:21:12,032 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-06 16:21:12,032 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-06 16:21:12,033 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory J:\Tigjaw\Documents\Work\Java\GitHub\master-spring-web-services\course-management\src\test\resources
+2022-07-06 16:21:24,415 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - No changes detected in schema or binding files - skipping source generation.
+2022-07-06 16:21:24,416 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-06 16:21:24,416 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-06 16:21:24,418 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-06 16:21:24,422 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-06 16:21:24,424 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-06 16:21:24,425 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-06 16:21:24,425 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory J:\Tigjaw\Documents\Work\Java\GitHub\master-spring-web-services\course-management\src\test\resources
+2022-07-06 16:21:29,295 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - No changes detected in schema or binding files - skipping source generation.
+2022-07-06 16:21:29,297 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-06 16:21:29,297 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-06 16:21:29,298 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-06 16:21:29,302 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-06 16:21:29,304 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-06 16:21:29,304 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-06 16:21:29,304 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory J:\Tigjaw\Documents\Work\Java\GitHub\master-spring-web-services\course-management\src\test\resources
+2022-07-06 16:21:36,285 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - No changes detected in schema or binding files - skipping source generation.
+2022-07-06 16:21:36,287 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-06 16:21:36,287 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-06 16:21:36,289 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-06 16:21:36,293 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-06 16:21:36,296 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-06 16:21:36,296 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-06 16:21:36,296 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory J:\Tigjaw\Documents\Work\Java\GitHub\master-spring-web-services\course-management\src\test\resources
+2022-07-06 16:27:11,722 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - No changes detected in schema or binding files - skipping source generation.
+2022-07-06 16:27:11,724 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-06 16:27:11,724 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-06 16:27:11,725 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-06 16:27:11,734 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-06 16:27:11,737 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-06 16:27:11,738 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-06 16:27:11,738 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory J:\Tigjaw\Documents\Work\Java\GitHub\master-spring-web-services\course-management\src\test\resources
+2022-07-06 16:28:33,275 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - No changes detected in schema or binding files - skipping source generation.
+2022-07-06 16:28:33,276 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-06 16:28:33,276 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-06 16:28:33,277 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-06 16:28:33,282 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-06 16:28:33,284 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-06 16:28:33,284 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-06 16:28:33,284 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory J:\Tigjaw\Documents\Work\Java\GitHub\master-spring-web-services\course-management\src\test\resources
+2022-07-06 16:43:49,352 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Generating source...
+2022-07-06 16:43:49,361 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - parsing a schema...
+2022-07-06 16:43:49,417 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - compiling a schema...
+2022-07-06 16:43:49,419 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - com\in28minutes\coursemanagement\courses\CourseDetails.java
+2022-07-06 16:43:49,421 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - com\in28minutes\coursemanagement\courses\DeleteCourseDetailsRequest.java
+2022-07-06 16:43:49,423 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - com\in28minutes\coursemanagement\courses\GetAllCourseDetailsRequest.java
+2022-07-06 16:43:49,425 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - com\in28minutes\coursemanagement\courses\GetAllCourseDetailsResponse.java
+2022-07-06 16:43:49,426 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - com\in28minutes\coursemanagement\courses\GetCourseDetailsRequest.java
+2022-07-06 16:43:49,428 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - com\in28minutes\coursemanagement\courses\GetCourseDetailsResponse.java
+2022-07-06 16:43:49,430 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - com\in28minutes\coursemanagement\courses\ObjectFactory.java
+2022-07-06 16:43:49,483 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - com\in28minutes\coursemanagement\courses\package-info.java
+2022-07-06 16:43:49,486 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-06 16:43:49,486 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-06 16:43:49,486 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-06 16:43:49,486 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-06 16:43:49,492 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-06 16:43:49,492 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-06 16:43:49,492 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory J:\Tigjaw\Documents\Work\Java\GitHub\master-spring-web-services\course-management\src\test\resources
+2022-07-06 16:44:10,407 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - No changes detected in schema or binding files - skipping source generation.
+2022-07-06 16:44:10,408 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-06 16:44:10,408 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-06 16:44:10,409 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-06 16:44:10,419 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-06 16:44:10,421 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-06 16:44:10,421 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-06 16:44:10,421 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory J:\Tigjaw\Documents\Work\Java\GitHub\master-spring-web-services\course-management\src\test\resources
+2022-07-06 16:44:59,511 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - No changes detected in schema or binding files - skipping source generation.
+2022-07-06 16:44:59,524 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-06 16:44:59,524 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-06 16:44:59,526 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-06 16:44:59,534 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-06 16:44:59,537 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-06 16:44:59,537 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-06 16:44:59,538 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory J:\Tigjaw\Documents\Work\Java\GitHub\master-spring-web-services\course-management\src\test\resources
+2022-07-06 16:45:39,772 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Generating source...
+2022-07-06 16:45:39,781 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - parsing a schema...
+2022-07-06 16:45:39,830 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - compiling a schema...
+2022-07-06 16:45:39,834 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - com\in28minutes\coursemanagement\courses\CourseDetails.java
+2022-07-06 16:45:39,836 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - com\in28minutes\coursemanagement\courses\DeleteCourseDetailsRequest.java
+2022-07-06 16:45:39,837 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - com\in28minutes\coursemanagement\courses\GetAllCourseDetailsRequest.java
+2022-07-06 16:45:39,839 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - com\in28minutes\coursemanagement\courses\GetAllCourseDetailsResponse.java
+2022-07-06 16:45:39,841 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - com\in28minutes\coursemanagement\courses\GetCourseDetailsRequest.java
+2022-07-06 16:45:39,842 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - com\in28minutes\coursemanagement\courses\GetCourseDetailsResponse.java
+2022-07-06 16:45:39,844 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - com\in28minutes\coursemanagement\courses\ObjectFactory.java
+2022-07-06 16:45:39,846 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - com\in28minutes\coursemanagement\courses\package-info.java
+2022-07-06 16:45:39,849 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-06 16:45:39,849 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-06 16:45:39,849 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-06 16:45:39,849 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-06 16:45:39,855 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-06 16:45:39,855 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-06 16:45:39,855 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory J:\Tigjaw\Documents\Work\Java\GitHub\master-spring-web-services\course-management\src\test\resources
+2022-07-06 16:45:42,630 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - No changes detected in schema or binding files - skipping source generation.
+2022-07-06 16:45:42,631 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-06 16:45:42,631 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-06 16:45:42,632 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-06 16:45:42,637 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-06 16:45:42,639 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-06 16:45:42,640 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-06 16:45:42,640 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory J:\Tigjaw\Documents\Work\Java\GitHub\master-spring-web-services\course-management\src\test\resources
+2022-07-06 16:46:26,022 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Generating source...
+2022-07-06 16:46:26,031 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - parsing a schema...
+2022-07-06 16:46:26,066 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - compiling a schema...
+2022-07-06 16:46:26,067 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - com\in28minutes\coursemanagement\courses\CourseDetails.java
+2022-07-06 16:46:26,069 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - com\in28minutes\coursemanagement\courses\DeleteCourseDetailsRequest.java
+2022-07-06 16:46:26,071 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - com\in28minutes\coursemanagement\courses\DeleteCourseDetailsResponse.java
+2022-07-06 16:46:26,073 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - com\in28minutes\coursemanagement\courses\GetAllCourseDetailsRequest.java
+2022-07-06 16:46:26,074 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - com\in28minutes\coursemanagement\courses\GetAllCourseDetailsResponse.java
+2022-07-06 16:46:26,077 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - com\in28minutes\coursemanagement\courses\GetCourseDetailsRequest.java
+2022-07-06 16:46:26,079 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - com\in28minutes\coursemanagement\courses\GetCourseDetailsResponse.java
+2022-07-06 16:46:26,081 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - com\in28minutes\coursemanagement\courses\ObjectFactory.java
+2022-07-06 16:46:26,083 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - com\in28minutes\coursemanagement\courses\package-info.java
+2022-07-06 16:46:26,085 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-06 16:46:26,085 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-06 16:46:26,086 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-06 16:46:26,086 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-06 16:46:26,091 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-06 16:46:26,091 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-06 16:46:26,091 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory J:\Tigjaw\Documents\Work\Java\GitHub\master-spring-web-services\course-management\src\test\resources
+2022-07-06 16:46:31,920 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - No changes detected in schema or binding files - skipping source generation.
+2022-07-06 16:46:31,921 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-06 16:46:31,921 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-06 16:46:31,922 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-06 16:46:31,928 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-06 16:46:31,930 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-06 16:46:31,931 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-06 16:46:31,931 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory J:\Tigjaw\Documents\Work\Java\GitHub\master-spring-web-services\course-management\src\test\resources
+2022-07-06 16:48:05,007 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - No changes detected in schema or binding files - skipping source generation.
+2022-07-06 16:48:05,008 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-06 16:48:05,008 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-06 16:48:05,010 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-06 16:48:05,034 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-06 16:48:05,036 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-06 16:48:05,036 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-06 16:48:05,037 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory J:\Tigjaw\Documents\Work\Java\GitHub\master-spring-web-services\course-management\src\test\resources
+2022-07-06 16:48:08,096 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - No changes detected in schema or binding files - skipping source generation.
+2022-07-06 16:48:08,097 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-06 16:48:08,097 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-06 16:48:08,099 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-06 16:48:08,121 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-06 16:48:08,123 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-06 16:48:08,123 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-06 16:48:08,123 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory J:\Tigjaw\Documents\Work\Java\GitHub\master-spring-web-services\course-management\src\test\resources
+2022-07-06 16:53:02,992 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Generating source...
+2022-07-06 16:53:03,001 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - parsing a schema...
+2022-07-06 16:53:03,052 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - compiling a schema...
+2022-07-06 16:53:03,055 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - com\in28minutes\coursemanagement\courses\CourseDetails.java
+2022-07-06 16:53:03,058 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - com\in28minutes\coursemanagement\courses\DeleteCourseDetailsRequest.java
+2022-07-06 16:53:03,058 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - com\in28minutes\coursemanagement\courses\DeleteCourseDetailsResponse.java
+2022-07-06 16:53:03,060 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - com\in28minutes\coursemanagement\courses\GetAllCourseDetailsRequest.java
+2022-07-06 16:53:03,061 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - com\in28minutes\coursemanagement\courses\GetAllCourseDetailsResponse.java
+2022-07-06 16:53:03,064 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - com\in28minutes\coursemanagement\courses\GetCourseDetailsRequest.java
+2022-07-06 16:53:03,066 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - com\in28minutes\coursemanagement\courses\GetCourseDetailsResponse.java
+2022-07-06 16:53:03,086 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - com\in28minutes\coursemanagement\courses\ObjectFactory.java
+2022-07-06 16:53:03,088 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - com\in28minutes\coursemanagement\courses\Status.java
+2022-07-06 16:53:03,089 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - com\in28minutes\coursemanagement\courses\package-info.java
+2022-07-06 16:53:03,090 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-06 16:53:03,090 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-06 16:53:03,091 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-06 16:53:03,091 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-06 16:53:03,098 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-06 16:53:03,098 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-06 16:53:03,098 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory J:\Tigjaw\Documents\Work\Java\GitHub\master-spring-web-services\course-management\src\test\resources
+2022-07-06 16:53:12,108 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - No changes detected in schema or binding files - skipping source generation.
+2022-07-06 16:53:12,109 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-06 16:53:12,109 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-06 16:53:12,111 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-06 16:53:12,116 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-06 16:53:12,118 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-06 16:53:12,118 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-06 16:53:12,118 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory J:\Tigjaw\Documents\Work\Java\GitHub\master-spring-web-services\course-management\src\test\resources
+2022-07-06 16:53:13,135 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Generating source...
+2022-07-06 16:53:13,144 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - parsing a schema...
+2022-07-06 16:53:13,179 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - compiling a schema...
+2022-07-06 16:53:13,180 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - com\in28minutes\coursemanagement\courses\CourseDetails.java
+2022-07-06 16:53:13,182 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - com\in28minutes\coursemanagement\courses\DeleteCourseDetailsRequest.java
+2022-07-06 16:53:13,184 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - com\in28minutes\coursemanagement\courses\DeleteCourseDetailsResponse.java
+2022-07-06 16:53:13,186 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - com\in28minutes\coursemanagement\courses\GetAllCourseDetailsRequest.java
+2022-07-06 16:53:13,188 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - com\in28minutes\coursemanagement\courses\GetAllCourseDetailsResponse.java
+2022-07-06 16:53:13,190 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - com\in28minutes\coursemanagement\courses\GetCourseDetailsRequest.java
+2022-07-06 16:53:13,192 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - com\in28minutes\coursemanagement\courses\GetCourseDetailsResponse.java
+2022-07-06 16:53:13,194 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - com\in28minutes\coursemanagement\courses\ObjectFactory.java
+2022-07-06 16:53:13,196 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - com\in28minutes\coursemanagement\courses\Status.java
+2022-07-06 16:53:13,198 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - com\in28minutes\coursemanagement\courses\package-info.java
+2022-07-06 16:53:13,200 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-06 16:53:13,201 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-06 16:53:13,201 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-06 16:53:13,201 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-06 16:53:13,222 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-06 16:53:13,222 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-06 16:53:13,222 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory J:\Tigjaw\Documents\Work\Java\GitHub\master-spring-web-services\course-management\src\test\resources
+2022-07-06 16:53:36,584 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - No changes detected in schema or binding files - skipping source generation.
+2022-07-06 16:53:36,586 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-06 16:53:36,586 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-06 16:53:36,587 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-06 16:53:36,591 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-06 16:53:36,593 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-06 16:53:36,593 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-06 16:53:36,593 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory J:\Tigjaw\Documents\Work\Java\GitHub\master-spring-web-services\course-management\src\test\resources
+2022-07-06 16:53:42,839 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Generating source...
+2022-07-06 16:53:42,848 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - parsing a schema...
+2022-07-06 16:53:42,879 [Worker-31: Building] ERROR o.e.m.c.i.embedder.EclipseLogger - file:/J:/Tigjaw/Documents/Work/Java/GitHub/master-spring-web-services/course-management/src/main/resources/course-details.xsd[58,26] s4s-att-invalid-value: Invalid attribute value for 'type' in element 'element'. Recorded reason: UndeclaredPrefix: Cannot resolve 'tsn:Status' as a QName: the prefix 'tsn' is not declared.
+org.xml.sax.SAXParseException: s4s-att-invalid-value: Invalid attribute value for 'type' in element 'element'. Recorded reason: UndeclaredPrefix: Cannot resolve 'tsn:Status' as a QName: the prefix 'tsn' is not declared.
+	at java.xml/com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.createSAXParseException(ErrorHandlerWrapper.java:204)
+	at java.xml/com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.error(ErrorHandlerWrapper.java:135)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:396)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.xs.traversers.XSDHandler.reportSchemaErr(XSDHandler.java:4254)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.xs.traversers.XSDHandler.reportSchemaError(XSDHandler.java:4237)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.xs.traversers.XSAttributeChecker.reportSchemaError(XSAttributeChecker.java:1573)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.xs.traversers.XSAttributeChecker.checkAttributes(XSAttributeChecker.java:1140)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.xs.traversers.XSAttributeChecker.checkAttributes(XSAttributeChecker.java:960)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.xs.traversers.XSDElementTraverser.traverseLocal(XSDElementTraverser.java:160)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.xs.traversers.XSDHandler.traverseLocalElements(XSDHandler.java:3707)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.xs.traversers.XSDHandler.parseSchema(XSDHandler.java:666)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.xs.XMLSchemaLoader.loadSchema(XMLSchemaLoader.java:618)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.xs.XMLSchemaLoader.loadGrammar(XMLSchemaLoader.java:577)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.xs.XMLSchemaLoader.loadGrammar(XMLSchemaLoader.java:543)
+	at java.xml/com.sun.org.apache.xerces.internal.jaxp.validation.XMLSchemaFactory.newSchema(XMLSchemaFactory.java:281)
+	at com.sun.tools.xjc.reader.xmlschema.parser.SchemaConstraintChecker.check(SchemaConstraintChecker.java:109)
+	at com.sun.tools.xjc.ModelLoader.loadXMLSchema(ModelLoader.java:360)
+	at com.sun.tools.xjc.ModelLoader.load(ModelLoader.java:174)
+	at com.sun.tools.xjc.ModelLoader.load(ModelLoader.java:119)
+	at com.sun.tools.xjc.Driver.run(Driver.java:333)
+	at org.codehaus.mojo.jaxb2.AbstractXjcMojo.execute(AbstractXjcMojo.java:316)
+	at org.apache.maven.plugin.DefaultBuildPluginManager.executeMojo(DefaultBuildPluginManager.java:137)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:336)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$8(MavenImpl.java:1423)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:182)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:117)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1422)
+	at org.eclipse.m2e.core.project.configurator.MojoExecutionBuildParticipant.build(MojoExecutionBuildParticipant.java:55)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilderImpl.build(MavenBuilderImpl.java:135)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$1.method(MavenBuilder.java:169)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$1.method(MavenBuilder.java:1)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.lambda$1(MavenBuilder.java:114)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:182)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:117)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.lambda$0(MavenBuilder.java:105)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:182)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:156)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:103)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:88)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:198)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:860)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:232)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:281)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:334)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:337)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:392)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:417)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:161)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:255)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2022-07-06 16:53:42,880 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Failed to parse a schema.
+2022-07-06 16:53:42,881 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-06 16:53:42,881 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-06 16:53:42,882 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-06 16:53:42,882 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-06 16:53:42,887 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-06 16:53:42,887 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-06 16:53:42,888 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory J:\Tigjaw\Documents\Work\Java\GitHub\master-spring-web-services\course-management\src\test\resources
+2022-07-06 16:53:46,686 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Generating source...
+2022-07-06 16:53:46,695 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - parsing a schema...
+2022-07-06 16:53:46,730 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - compiling a schema...
+2022-07-06 16:53:46,731 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - com\in28minutes\coursemanagement\courses\CourseDetails.java
+2022-07-06 16:53:46,733 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - com\in28minutes\coursemanagement\courses\DeleteCourseDetailsRequest.java
+2022-07-06 16:53:46,735 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - com\in28minutes\coursemanagement\courses\DeleteCourseDetailsResponse.java
+2022-07-06 16:53:46,737 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - com\in28minutes\coursemanagement\courses\GetAllCourseDetailsRequest.java
+2022-07-06 16:53:46,738 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - com\in28minutes\coursemanagement\courses\GetAllCourseDetailsResponse.java
+2022-07-06 16:53:46,740 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - com\in28minutes\coursemanagement\courses\GetCourseDetailsRequest.java
+2022-07-06 16:53:46,741 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - com\in28minutes\coursemanagement\courses\GetCourseDetailsResponse.java
+2022-07-06 16:53:46,743 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - com\in28minutes\coursemanagement\courses\ObjectFactory.java
+2022-07-06 16:53:46,745 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - com\in28minutes\coursemanagement\courses\Status.java
+2022-07-06 16:53:46,747 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - com\in28minutes\coursemanagement\courses\package-info.java
+2022-07-06 16:53:46,749 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-06 16:53:46,749 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-06 16:53:46,749 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-06 16:53:46,750 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-06 16:53:46,755 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-06 16:53:46,755 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-06 16:53:46,755 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory J:\Tigjaw\Documents\Work\Java\GitHub\master-spring-web-services\course-management\src\test\resources
+2022-07-06 16:53:51,351 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - No changes detected in schema or binding files - skipping source generation.
+2022-07-06 16:53:51,353 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-06 16:53:51,353 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-06 16:53:51,354 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-06 16:53:51,358 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-06 16:53:51,359 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-06 16:53:51,360 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-06 16:53:51,360 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory J:\Tigjaw\Documents\Work\Java\GitHub\master-spring-web-services\course-management\src\test\resources
+2022-07-06 16:54:36,912 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - No changes detected in schema or binding files - skipping source generation.
+2022-07-06 16:54:36,914 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-06 16:54:36,914 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-06 16:54:36,915 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-06 16:54:36,919 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-06 16:54:36,921 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-06 16:54:36,921 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-06 16:54:36,922 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory J:\Tigjaw\Documents\Work\Java\GitHub\master-spring-web-services\course-management\src\test\resources
+2022-07-06 16:55:01,831 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - No changes detected in schema or binding files - skipping source generation.
+2022-07-06 16:55:01,832 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-06 16:55:01,832 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-06 16:55:01,834 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-06 16:55:01,838 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-06 16:55:01,841 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-06 16:55:01,841 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-06 16:55:01,841 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory J:\Tigjaw\Documents\Work\Java\GitHub\master-spring-web-services\course-management\src\test\resources
+2022-07-06 16:59:55,366 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - No changes detected in schema or binding files - skipping source generation.
+2022-07-06 16:59:55,367 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-06 16:59:55,367 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-06 16:59:55,368 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-06 16:59:55,374 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-06 16:59:55,376 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-06 16:59:55,376 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-06 16:59:55,377 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory J:\Tigjaw\Documents\Work\Java\GitHub\master-spring-web-services\course-management\src\test\resources
+2022-07-06 17:01:09,971 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - No changes detected in schema or binding files - skipping source generation.
+2022-07-06 17:01:09,972 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-06 17:01:09,973 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-06 17:01:09,974 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-06 17:01:09,978 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-06 17:01:09,980 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-06 17:01:09,980 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-06 17:01:09,980 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory J:\Tigjaw\Documents\Work\Java\GitHub\master-spring-web-services\course-management\src\test\resources
+2022-10-20 15:01:33,256 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-10-20 15:01:35,470 [Worker-6: Decoration Calculation] WARN  org.eclipse.jgit.util.FS_Win32 - null
